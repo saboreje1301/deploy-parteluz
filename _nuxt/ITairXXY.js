@@ -1,0 +1,1 @@
+import{k as t,V as s,c as a,o as n,a as o}from"./AioM4BSo.js";const m=t({__name:"default",setup(i){return s(),(l,e)=>(n(),a("noscript",null,[...e[0]||(e[0]=[o("iframe",{src:"https://www.googletagmanager.com/ns.html?id=GTM-NBL8L2CS",height:"0",width:"0",style:{display:"none",visibility:"hidden"}},null,-1)])]))}});export{m as default};
